@@ -7,7 +7,7 @@ This Python program processes point cloud data files, filtering and translating 
 - Automatically creates necessary directories if they do not exist.
 - Processes files in the `in/todo` directory.
 - Filters out points with `z < 7`.
-- Reads one line in every 500 from the input files for processing.
+- Reads one line in every 1500 from the input files for processing.
 - Removes outliers using DBSCAN clustering.
 - Translates points so that the point with the lowest `z` value is at the origin.
 - Exports processed files to the `out` and `skeleton/in` directories.
