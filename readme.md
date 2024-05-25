@@ -48,7 +48,7 @@ The script performs the following actions:
 - Adjust the paths in the script if your directory structure differs.
 - Ensure all required files and directories exist before running the script.
 - The script will skip certain steps if conditions are not met (e.g., if specific directories do not exist).
-- The first time the script is ran it will only create the required directories. Paste the scan files in in/todo and run the script again and the files will get processed and displayed.
+- The first time the script is run, it will only create the required directories. Paste the scan files into the 'in/todo' directory and run the script again. The files will then be processed and displayed.
 
 ## Troubleshooting
 
