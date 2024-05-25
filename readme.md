@@ -1,4 +1,4 @@
-# Automation Script for GrowthProject
+# Automation Script for GrowthProject (run.sh)
 
 This script automates a series of tasks related to the GrowthProject. It runs a Python application, executes a tool, manages temporary directories, and runs a processing script based on certain conditions.
 
@@ -17,12 +17,12 @@ The script performs the following actions:
 
 1. Ensure that you have the necessary permissions to execute the script:
     ```bash
-    chmod +x script.sh
+    chmod +x run.sh
     ```
 
 2. Run the script:
     ```bash
-    ./script.sh
+    ./run.sh
     ```
 
 ## Directory Structure
